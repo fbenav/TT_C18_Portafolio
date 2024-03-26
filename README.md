@@ -3,6 +3,11 @@ Portafolio creado a partir de los proyectos del bootcamp
 
 
 ## Sprint 1 - Python Basico Parte 1
+Aprendemos habilidades basicas de python, principalmente:
+- Tipos de datos.
+- Listas anidadas.
+- Ciclos for, while.
+- Condiciones con if.
 
 ## Sprint 2 - Python Basico Parte 2
 Aprendemos librerias basicas de manejo de datos tales como:
