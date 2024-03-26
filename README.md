@@ -16,6 +16,8 @@ Aprendemos librerias basicas de manejo de datos tales como:
 
 
 ## Sprint 3 - Data Wrangle
+Aprendemos (por completar)
+
 
 ## Sprint 4 - Analisis Estadistico
 
