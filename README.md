@@ -5,6 +5,10 @@ Portafolio creado a partir de los proyectos del bootcamp
 ## Sprint 1 - Python Basico Parte 1
 
 ## Sprint 2 - Python Basico Parte 2
+Aprendemos librerias basicas de manejo de datos tales como:
+- Pandas
+- Numpy
+
 
 ## Sprint 3 - Data Wrangle
 
